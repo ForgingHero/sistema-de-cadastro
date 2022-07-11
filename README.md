@@ -8,7 +8,7 @@
 Para rodar esse projeto na sua máquina, por favor digite: 
 
 ```
-npm install react
+node app.js
 ``` 
 
 aqui tem [página facebook](https://www.facebook.com/) no site
