@@ -14,7 +14,4 @@ node app.js
 aqui tem [página facebook](https://www.facebook.com/) no site
 
 
-
-.
-
-abecedário
+eu sou muito legal
